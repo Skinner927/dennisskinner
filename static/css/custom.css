@@ -1,0 +1,5 @@
+body {
+  /* Original font had very odd kerning on Windows */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: normal;
+}
