@@ -3,3 +3,18 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   letter-spacing: normal;
 }
+
+.inner-nav {
+  max-width: 680px; /* Same as section#single */
+  margin: 0 auto;
+  padding: 0;
+}
+
+.markdown-image {
+  display: block;
+  text-align: center;
+}
+.markdown-image img {
+  max-width: 100%;
+  height: auto;
+}
