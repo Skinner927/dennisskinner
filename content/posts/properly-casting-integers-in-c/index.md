@@ -268,7 +268,7 @@ library which may be used to
 ## Related external readings
 
 - [Safe Integer Conversion in C](http://tzimmermann.org/2018/04/20/safe-integer-conversion-in-c/)
-  - From the above, [picotm's casting macro][https://github.com/picotm/picotm/blob/master/modules/cast/include/picotm/picotm-cast.h#L66]
+  - From the above, [picotm's casting macro](https://github.com/picotm/picotm/blob/master/modules/cast/include/picotm/picotm-cast.h#L66)
 - [Integer Overflow Prevention in C](https://splone.com/blog/2015/3/11/integer-overflow-prevention-in-c/)
 - [Undefined behavior can result in time travel (among other things, but time travel is the funkiest)](https://devblogs.microsoft.com/oldnewthing/20140627-00/?p=633)
 - How a variable can be both true and false at the same time:
